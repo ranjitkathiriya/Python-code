@@ -1,2 +1,8 @@
 # Python-code
-the code is for playing 
+Download Youtube video using python
+
+# Language
+  * Python
+  
+# Libs:
+  * youtube Libreary
